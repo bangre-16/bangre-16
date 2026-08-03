@@ -484,24 +484,6 @@ Open To:
 
 ---
 
-# 📌 GitHub Profile Summary
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bangre-16&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bangre-16&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bangre-16&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bangre-16&theme=tokyonight)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bangre-16&theme=tokyonight&utcOffset=5.5)
