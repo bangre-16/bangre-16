@@ -273,3 +273,92 @@ Developed a UART communication module supporting asynchronous serial transmissio
 - Synthesizable hardware design
 
 </details>
+
+---
+
+# Professional Experience
+
+### 🏢 VLSI Design Intern | Maven Silicon
+
+**Duration:** Internship
+
+Worked on industry-standard RTL design and verification projects while gaining hands-on experience with digital design methodologies and semiconductor protocols.
+
+### Responsibilities
+
+- Designed and verified RTL modules using Verilog HDL.
+- Developed and simulated an AHB–APB Bridge.
+- Created comprehensive Verilog testbenches for functional verification.
+- Performed RTL simulation using ModelSim.
+- Synthesized designs using Intel Quartus Prime.
+- Improved understanding of AMBA bus protocols and digital system design.
+
+### Technologies Used
+
+<p>
+
+<img src="https://img.shields.io/badge/Verilog-RTL-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ModelSim-Simulation-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Quartus-Prime-5C2D91?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AMBA-AHB%20%7C%20APB-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+# Achievements
+
+| Recognition | Details |
+|--------------|---------|
+| 🎓 Engineering Student | B.E. in Electrical & Electronics Engineering |
+| 💻 GitHub Projects | Multiple VLSI, Embedded Systems, and AI repositories |
+| 🤖 AI Project | Developed an AI Emotional Companion Robot integrating TensorFlow, Raspberry Pi, and Arduino |
+| 🖥️ RTL Development | Designed a 32-bit Single-Cycle RISC-V Processor in Verilog |
+| 🔄 Protocol Design | Implemented and verified an AHB–APB Bridge using Verilog HDL |
+
+---
+
+# Certifications
+
+## VLSI
+
+<p>
+
+<img src="https://img.shields.io/badge/Maven%20Silicon-VLSI%20Internship-6D28D9?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Technical Skills
+
+<p>
+
+<img src="https://img.shields.io/badge/Digital%20Design-Verilog-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RTL-Design-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embedded-Systems-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-AI-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge"/>
+
+</p>
+
+---
+
+# Learning Journey
+
+| Currently Learning | Goal |
+|--------------------|------|
+| RTL Design | Advanced Digital IC Design |
+| SystemVerilog | Industry-Level Verification |
+| Physical Design | ASIC Design Flow |
+| Computer Architecture | High-Performance Processors |
+| Embedded AI | Intelligent Edge Devices |
+
+---
