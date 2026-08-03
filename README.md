@@ -481,3 +481,29 @@ Open To:
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+---
+
+# 📌 GitHub Profile Summary
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bangre-16&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bangre-16&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bangre-16&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bangre-16&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bangre-16&theme=tokyonight&utcOffset=5.5)
+
+</div>
