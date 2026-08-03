@@ -46,7 +46,7 @@
 
 # About Me
 
-I'm **Darshan Bangre**, an Electrical & Electronics Engineering undergraduate with a strong passion for **VLSI Design, RTL Development, Embedded Systems, Artificial Intelligence, and Semiconductor Technologies**.
+I'm **Darshan N S**, an Electrical & Electronics Engineering undergraduate with a strong passion for **VLSI Design, RTL Development, Embedded Systems, Artificial Intelligence, and Semiconductor Technologies**.
 
 My primary focus is on building high-quality hardware and software solutions that combine **digital design**, **embedded intelligence**, and **machine learning** to solve real-world engineering problems.
 
