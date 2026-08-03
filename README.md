@@ -365,55 +365,61 @@ Worked on industry-standard RTL design and verification projects while gaining h
 
 ---
 
-# GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bangre-16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bangre-16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangre-16&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangre-16&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bangre-16&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=bangre-16&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bangre-16&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bangre-16&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bangre-16&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bangre-16&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
-![Snake animation](https://github.com/bangre-16/bangre-16/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/bangre-16/bangre-16/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </div>
 
+> **Note:** The snake animation will appear after we configure a GitHub Action.
+
 ---
 
-# Current Focus
+# 🎯 Current Focus
 
 ```yaml
 Learning:
@@ -424,9 +430,9 @@ Learning:
   - Computer Architecture
 
 Building:
-  - Advanced VLSI Projects
-  - AI + Embedded Systems
-  - Open Source Portfolio
+  - AI Emotional Companion Robot
+  - 32-bit RISC-V Processor
+  - AHB–APB Bridge
 
 Exploring:
   - Semiconductor Industry
@@ -438,12 +444,13 @@ Open To:
   - VLSI Internships
   - RTL Design Roles
   - Semiconductor Engineering
+  - Embedded Systems
   - Open Source Collaboration
 ```
 
 ---
 
-# Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -460,7 +467,7 @@ Open To:
 </a>
 
 <a href="https://darshanverse.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -469,8 +476,8 @@ Open To:
 
 <div align="center">
 
-> *"Designing intelligent hardware, building impactful software, and continuously learning to engineer the future."*
+### 💜 *"Designing Digital Intelligence, Building Intelligent Hardware."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
