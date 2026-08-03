@@ -152,3 +152,124 @@ Currently, I'm strengthening my expertise in:
 - Semiconductor Industry
 - Edge Computing
 - Robotics
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---------|-------------|----------|
+| Artificial Intelligence | ★★★★☆ | AI-powered embedded applications |
+| Machine Learning | ★★★★☆ | TensorFlow-based emotion recognition |
+| Computer Vision | ★★★★☆ | Real-time facial emotion detection |
+| Embedded AI | ★★★★☆ | Raspberry Pi & Arduino integration |
+| Python Development | ★★★★☆ | Backend development and automation |
+| Robotics | ★★★★☆ | Autonomous navigation and obstacle avoidance |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><h3>🤖 AI Emotional Companion Robot</h3></summary>
+
+## Overview
+
+An AI-powered emotional companion robot designed to recognize user emotions, provide intelligent conversations, remind users to take medications, send caregiver alerts, and navigate autonomously.
+
+| Category | Details |
+|----------|----------|
+| Stack | Python • TensorFlow • Flask • Raspberry Pi • Arduino |
+| AI Model | CNN Emotion Recognition |
+| Hardware | Raspberry Pi 4B, Arduino UNO, GSM Module, Ultrasonic Sensor |
+| Features | Emotion Detection, Medication Reminder, AI Chat, Voice Response |
+| Repository | https://github.com/bangre-16/AI-Emotional-Companion-Robot |
+
+### Key Highlights
+
+- Real-time facial emotion recognition
+- AI-powered emotional interaction
+- Medication reminder with caregiver notification
+- Autonomous obstacle avoidance
+- Raspberry Pi and Arduino integration
+- TensorFlow-based emotion classification
+
+</details>
+
+---
+
+<details>
+<summary><h3>🖥️ 32-bit Single Cycle RISC-V Processor</h3></summary>
+
+## Overview
+
+Designed and implemented a complete 32-bit RISC-V processor in Verilog following the RV32I instruction set architecture.
+
+| Category | Details |
+|----------|----------|
+| Language | Verilog HDL |
+| Architecture | Single Cycle |
+| ISA | RV32I |
+| Tools | ModelSim, Quartus Prime |
+| Features | ALU, Register File, Control Unit, Instruction Memory |
+
+### Key Highlights
+
+- Designed modular RTL architecture
+- Implemented instruction execution pipeline
+- Developed ALU and control logic
+- Verified functionality using ModelSim
+- Synthesizable Verilog implementation
+
+</details>
+
+---
+
+<details>
+<summary><h3>🔄 AHB–APB Bridge</h3></summary>
+
+## Overview
+
+Designed and verified an AHB-to-APB bridge enabling communication between high-speed AHB masters and low-speed APB peripherals.
+
+| Category | Details |
+|----------|----------|
+| Language | Verilog HDL |
+| Protocols | AHB, APB |
+| Tools | ModelSim, Quartus Prime |
+| Verification | RTL Simulation |
+
+### Key Highlights
+
+- Implemented finite state machine (FSM)
+- Supported APB read and write transactions
+- Address decoding and data transfer logic
+- Developed comprehensive Verilog testbench
+- Verified functionality through simulation waveforms
+
+</details>
+
+---
+
+<details>
+<summary><h3>📡 UART Transmitter & Receiver</h3></summary>
+
+## Overview
+
+Developed a UART communication module supporting asynchronous serial transmission and reception.
+
+| Category | Details |
+|----------|----------|
+| Language | Verilog HDL |
+| Modules | UART TX, UART RX, Baud Rate Generator |
+| Tools | ModelSim, Quartus Prime |
+
+### Key Highlights
+
+- Configurable baud-rate generator
+- Reliable serial communication
+- Modular RTL implementation
+- Functional verification using ModelSim
+- Synthesizable hardware design
+
+</details>
