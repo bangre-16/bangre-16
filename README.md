@@ -362,3 +362,115 @@ Worked on industry-standard RTL design and verification projects while gaining h
 | Embedded AI | Intelligent Edge Devices |
 
 ---
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bangre-16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangre-16&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bangre-16&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bangre-16&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bangre-16&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/bangre-16/bangre-16/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - RTL Design & Verification
+  - SystemVerilog
+  - Physical Design
+  - ASIC Design Flow
+  - Computer Architecture
+
+Building:
+  - Advanced VLSI Projects
+  - AI + Embedded Systems
+  - Open Source Portfolio
+
+Exploring:
+  - Semiconductor Industry
+  - FPGA Design
+  - Embedded Linux
+  - Edge AI
+
+Open To:
+  - VLSI Internships
+  - RTL Design Roles
+  - Semiconductor Engineering
+  - Open Source Collaboration
+```
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="mailto:darshanbangre16@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/darshan-n-s-98806236b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bangre-16">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://darshanverse.lovable.app/">
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Designing intelligent hardware, building impactful software, and continuously learning to engineer the future."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"/>
